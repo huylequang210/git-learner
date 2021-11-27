@@ -1,4 +1,4 @@
-this is just for dummy instructions ...
+this is just for dummy instructions
 new change added by gitweb
 
 new changes added by new branch from home pc
